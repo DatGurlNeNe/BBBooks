@@ -1,0 +1,53 @@
+Emp_ID,Emp_Fname,Emp_Lname,Position ,StartDate, Salary  ,Emp_Street ,Emp_City,Emp_State,Emp_email,Emp_phone,Emp_LOC,SSN
+1359927,Thomas,Spence,Store Manager,3/5/2020, $14.00 ,Moorfield West,Sacramento,California ,jelmer@icloud.com,(741) 272-8691,B001,234677890
+9615143,Charles,Diaz,Team Member ,8/2/2019, $12.00 ,Heathcote Cloisters,San Jose,California ,bhtower@outlook.com,(297) 864-6214,B002,17498493
+8343559,Suzan,Rodgers,Shift Leader,7/8/2019, $13.00 ,Buxton Side,San Bernadino,California ,pontipak@live.com,(855) 677-1965,C001,864108939
+5901566,Benjamin,James,Team Member ,9/13/2019, $10.00 ,Brock Brae,Sacramento,California ,yangyan@msn.com,(259) 876-7034,B001,503139206
+340115,Haiden,Villa,Store Manager,5/16/2019, $13.00 ,Edmonds Road,San Jose,California ,nasarius@sbcglobal.net,(441) 750-5441,B002,618687989
+6881020,Coralie,Gross,Store Manager,4/25/2020, $15.00 ,Potassels Road,San Bernadino,California ,parents@yahoo.ca,(811) 687-0683,C001,828300739
+6008561,Randall,Villarreal,Team Member ,1/14/2019, $12.00 ,Court Fold,San Jose,California ,offthelip@optonline.net,(915) 721-1787,B002,789259524
+5170880,Ricardo,Potts,Team Member ,9/24/2019, $12.00 ,Malvern Glebe,Sacramento,California ,tmaek@msn.com,(866) 710-3378,B001,77687729
+1444386,Justice,Glass,Team Member ,5/22/2020, $10.00 ,Barclay Banks,Santa Cruz,California ,purvis@icloud.com,(314) 456-6813,B003,283968708
+599903,Kae,Lopez,Shift Leader,7/6/2021, $13.00 ,Millers Villas,San Jose,California ,andrei@hotmail.com,(603) 362-6334,B002,903141575
+8695867,Doran,Wong,Store Manager,9/29/2019, $14.00 ,London Furlong,San Jose,California ,mhanoh@msn.com,(302) 379-6730,B002,285363000
+2101054,Harriet,Mclaughlin,Team Member ,6/6/2019, $14.00 ,Fleet Dale,Santa Cruz,California ,bbirth@yahoo.com,(419) 266-1551,B003,980653569
+8833559,Kathryn,Hammond,Shift Leader,5/31/2020, $13.00 ,Alexander Lodge,San Bernadino,California ,crowemojo@me.com,(492) 768-4047,C001,577383396
+6287058,Ryder,Carter,Team Member ,3/28/2020, $11.00 ,Pippin Approach,Pleasant Hill,California ,dsugal@optonline.net,(315) 567-8435,BOO4,980557631
+8468595,Matteo,Hess,Team Member ,10/1/2021, $15.00 ,Lytton Croft,Sacramento,California ,mddallara@comcast.net,(288) 917-0677,B001,25101659
+140097,Hyrum,Wade,Team Member ,12/21/2019, $10.00 ,Kempton Park,San Jose,California ,tokuhirom@live.com,(983) 430-2000,B002,715282236
+3400018,Grant,Taylor,Team Member ,4/7/2019, $15.00 ,Danesborough View East,Sacramento,California ,bmorrow@aol.com,(455) 266-2404,B001,85794008
+6974532,Heath,Frye,Store Manager,11/9/2021, $14.00 ,Repton South,San Jose,California ,sinclair@msn.com,(242) 740-0827,B002,232470154
+4138569,Bram,Roth,Team Member ,9/3/2020, $12.00 ,Bradden Close,Santa Cruz,California ,research@sbcglobal.net,(980) 486-3290,B003,134055436
+7570614,Paul,Mccullough,Team Member ,10/30/2019, $11.00 ,Pinewood Vale,Sacramento,California ,ducasse@verizon.net,(826) 282-9039,B001,919277099
+4332392,Jaidyn,Thompson,District Manager,7/25/2019, $16.00 ,Rams Grove,San Jose,California ,euice@comcast.net,(634) 356-5024,B002,191493339
+7808280,Korin,Mcdaniel,Store Manager,10/26/2020, $14.00 ,Welland North,San Bernadino,California ,jfreedma@verizon.net,(359) 625-8271,C001,878104295
+6313265,Justin,Bird,Team Member ,2/11/2020, $11.00 ,Calcott Park,San Bernadino,California ,kwilliams@att.net,(451) 518-7654,C001,951180312
+2022599,Caren,Cowan,Team Member ,11/20/2020, $10.00 ,Tamworth Loke,San Bernadino,California ,panolex@hotmail.com,(408) 234-7209,C001,821237376
+9577315,Selene,Alvarado,Shift Leader,3/2/2019, $13.00 ,Munro Bottom,Pleasant Hill,California ,sagal@yahoo.com,(219) 542-4495,B004,220325380
+8801630,Beck,Meza,Team Member ,12/13/2019, $10.00 ,Ely Lea,Santa Cruz,California ,solomon@live.com,(339) 906-5321,B003,625540574
+7298491,Edward,Wheeler,Shift Leader,7/17/2020, $13.00 ,Baker Way,San Bernadino,California ,rddesign@sbcglobal.net,(291) 249-9863,C001,462644219
+9665709,Annabel,Pope,Team Member ,3/16/2020, $11.00 ,Fife Oaks,Sacramento,California ,sfoskett@outlook.com,(259) 425-3551,B001,452576047
+1964963,Denise,Hardy,Shift Leader,2/14/2020, $13.00 ,Macdonald Moor,Santa Cruz,California ,cremonini@gmail.com,(369) 274-9887,B003,848649116
+6928765,Jane,Santos,Team Member ,5/3/2021, $12.00 ,Admirals Wynd,Pleasant Hill,California ,tsuruta@aol.com,(484) 739-6146,B004,93335355
+9396632,Irene,Orr,Team Member ,10/16/2021, $11.00 ,Oldfield Orchard,San Bernadino,California ,hellfire@mac.com,(402) 490-2904,C001,809601566
+2093903,Emeline,Ryan,Team Member ,4/10/2020, $14.00 ,Gleneagles Ride,San Jose,California ,bowmanbs@live.com,(467) 460-7939,B002,803822848
+4373702,Jax,Johnson,Team Member ,7/1/2020, $11.00 ,Repton Lanes,Sacramento,California ,geoffr@gmail.com,(279) 541-4311,B001,419021321
+3264890,Anthony,House,Shift Leader,11/18/2021, $13.00 ,Fulford By-Pass,San Bernadino,California ,bmorrow@comcast.net,(495) 930-3876,C001,602543701
+5442436,Vivian,Whitaker,District Manager,9/12/2020, $16.00 ,St Anthony,San Jose,California ,sbmrjbr@aol.com,(560) 702-6276,B002,826899552
+469391,Quintin,Tanner,District Manager,3/10/2021, $16.00 ,Rosebery Way,Pleasant Hill,California ,camenisch@icloud.com,(470) 818-4940,B004,464039727
+1615812,Dean,Chavez,District Manager,11/14/2021, $16.00 ,Fryston,Santa Cruz,California ,bebing@verizon.net,(610) 438-5688,B003,774094977
+1702539,Breean,Burgess,Team Member ,7/26/2021, $14.00 ,Edith Top,Santa Cruz,California ,chinthaka@live.com,(733) 859-4414,B003,163034338
+521781,Wade,Leblanc,District Manager,10/12/2019, $16.00 ,Pitt Copse,Pleasant Hill,California ,ducasse@yahoo.ca,(494) 547-8429,B004,163822626
+4570120,Nicolas,Mcgee,Store Manager,3/31/2019, $14.00 ,Lizard Head,Pleasant Hill,California ,dwendlan@yahoo.ca,(920) 591-0791,B004,685189272
+4054992,Susannah,Woodard,Team Member ,12/14/2020, $10.00 ,Lynmore Close,Sacramento,California ,aardo@aol.com,(925) 749-4872,B001,795279709
+2406776,Evony,Noble,Team Member ,4/19/2020, $10.00 ,Ingleby Las,Pleasant Hill,California ,crowemojo@sbcglobal.net,(374) 707-3655,B004,220491183
+9129449,Vanessa,Rasmussen,Shift Leader,8/19/2019, $13.00 ,Brook Mead,San Jose,California ,singh@att.net,(399) 276-2205,B002,324392483
+2861720,Hope,Dixon,Team Member ,8/18/2019, $14.00 ,Jersey Covert,Santa Cruz,California ,rddesign@outlook.com,(655) 618-9529,B003,344991778
+5484029,Karilyn,Reed,Team Member ,3/16/2019, $11.00 ,Alnwick Walk,Sacramento,California ,conteb@verizon.net,(244) 835-3605,B001,708696258
+1748462,Lilibeth,Rodriguez,Team Member ,4/12/2021, $15.00 ,Brunel Oval,Sacramento,California ,uncle@yahoo.com,(517) 728-1564,B001,703944416
+5823223,Rylie,Yang,Team Member ,6/21/2020, $12.00 ,Cygnet Isaf,San Bernadino,California ,atmarks@yahoo.com,(370) 203-6773,C001,571462996
+6890953,Isaiah,Hutchinson,Team Member ,8/23/2020, $11.00 ,Walpole Lawns,Sacramento,California ,linuxhack@hotmail.com,(639) 581-8142,B001,767963619
+6429814,Blake,Norris,Team Member ,12/13/2021, $12.00 ,Tintern Brambles,Santa Cruz,California ,pmint@verizon.net,(299) 594-6408,B003,734885421
+4761523,Gwendolen,Rosario,Shift Leader,4/22/2019, $13.00 ,Stilton Close,San Jose,California ,overbom@yahoo.com,(669) 475-6697,B002,488554227
+,,,,,,,,,,,,
+,,,,,,,,,,,,
